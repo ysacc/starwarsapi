@@ -1,4 +1,4 @@
-import React, { useState, useEffect, FC } from 'react';
+import  { useState, useEffect, FC } from 'react';
 import './App.css';
 import { ClipLoader } from 'react-spinners';
 import { IoIosArrowForward } from "react-icons/io";
