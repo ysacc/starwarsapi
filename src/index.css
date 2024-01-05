@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main-container {
+  display: flex;
+}
+
+/* Estilos del TitleBar */
+
+
+/* Estilos del SideBar */
+
+/* Estilos del CharacterDetails */
+.character-details {
+  flex: 2;
+  background-color: #e74c3c;
+  padding: 20px;
+  color: #fff;
+}
